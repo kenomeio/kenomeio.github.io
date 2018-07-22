@@ -3,6 +3,8 @@ AUTHOR: uiCookies.com
 LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
 AUTHOR URI: https://uiCookies.com/
 
+https://pixabay.com/en/brain-icon-human-background-idea-1710293/
+
 
 CREDITS:
 
