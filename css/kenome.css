@@ -1,0 +1,187 @@
+.why-us-icon {
+    width: 48px;
+    height: 48px;
+}
+
+.why-section-info {
+    padding: 0 16px 24px 60px;
+    margin-left: 40px;
+    color: #859196;
+    font-size: 20px;
+    border-left: 1px solid #859196;
+    text-align: left;
+}
+
+.product-description {
+    color: #859196;
+    font-size: 20px;
+    border-left: 1px solid #859196;
+    padding-left: 25px;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+.customers {
+    margin-top: 32px;
+    font-size: 20px;
+    color: #859196;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    text-align: left;
+}
+
+.contact-us {
+    color: #859196;
+    font-size: 20px;
+    border-left: 1px solid #859196;
+    padding-left: 25px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.about-us {
+    color: #859196;
+    font-size: 20px;
+    border-left: 1px solid #859196;
+    padding-left: 25px;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.logo-icon {
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .logo-icon {
+        height: 40px;
+        width: 40px;
+        margin: 5px;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .logo-icon {
+        height: 80px;
+        width: 80px;
+        margin: 15px;
+    }
+}
+
+@media only screen  and (min-width : 1224px) {
+    .logo-icon {
+        height: 80px;
+        width: 80px;
+        margin: 15px;
+    }
+}
+
+/* #hero-section {
+    margin: 20px;
+} */
+
+.navbar-dark  .color-blue {
+    color: #00aeef;
+}
+
+.logo-text {
+    font-size: 64px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .navbar-brand.logo-text {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .navbar-brand.logo-text {
+        font-size: 40px;
+    }
+}
+
+@media only screen  and (min-width : 1224px) {
+    .navbar-brand.logo-text {
+        font-size: 64px;
+    }
+}
+
+
+
+.section-divider {
+    padding-top: 16px;
+    padding-bottom: 48px;
+}
+
+.section-divider-line {
+    height: 0;
+    width: 120px;
+    margin: 0 auto;
+    border: 1px solid #00aeef;
+}
+
+.title {
+    color: #00aeef;
+    font-size: 45px;
+}
+
+.probootstrap-heading.sp-header {
+    font-size: 30px;
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .probootstrap-heading.sp-header {
+        font-size: 20px;
+    }   
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .probootstrap-heading.sp-header {
+        font-size: 25px;
+    }
+}
+
+@media only screen  and (min-width : 1224px) {
+    .probootstrap-heading.sp-header {
+        font-size: 30px;
+    }
+}
+
+
+.col-md-10 > .sp-header {
+    text-align: left;
+}
+
+.probootstrap-heading.product-header {
+    font-size: 30px;
+    text-align: left;
+}
+
+.why-text {
+    text-align: justify;
+}
+
+.why-container {
+    height: 200px;
+}
+
+.container-areas {
+    padding-top: 0em; 
+}
+
+.customers-target-image {
+    height: 48px;
+    width: 36px;
+    margin-left: 16px;
+}
+
+@media only screen and (min-width: 1224px) {
+    .customers-target-image {
+        height: 48px;
+        width: 36px;
+        margin-left: 16px;
+    }
+}
